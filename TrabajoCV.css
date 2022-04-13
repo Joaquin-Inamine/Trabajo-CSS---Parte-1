@@ -1,0 +1,107 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    background-color: coral;
+}
+
+p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+h3 {
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+h2 {
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.destacado {
+    color: darkorchid;
+    font-weight: bold;
+}
+
+.nacimiento {
+    width: 350px;
+    height: 300px;
+    background: #f30707;
+    background: linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -webkit-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -moz-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    text-shadow: -6px 5px 7px rgba(0, 0, 0, 0.66);
+    border-radius: 0px 200px 199px 200px;
+    -webkit-border-radius: 0px 200px 199px 200px;
+    -moz-border-radius: 0px 200px 199px 200px;
+    border: 4px dotted #ff6550;
+    box-shadow: -21px 17px 0px 3px rgba(0, 0, 0, 0.8);
+}
+
+.domicilio {
+    width: 400px;
+    height: 150px;
+    background: #f30707;
+    background: linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -webkit-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -moz-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    text-shadow: -6px 5px 7px rgba(0, 0, 0, 0.66);
+    border-radius: 27px 27px 27px 27px;
+    -webkit-border-radius: 27px 27px 27px 27px;
+    -moz-border-radius: 27px 27px 27px 27px;
+    border: 4px dotted #ff6550;
+    box-shadow: -21px 17px 0px 3px rgba(0, 0, 0, 0.8);
+}
+
+.experiencia {
+    width: 600px;
+    height: 150px;
+    background: linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -webkit-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -moz-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    text-shadow: -6px 5px 7px rgba(0, 0, 0, 0.66);
+    border-radius: 0px 140px 116px 27px;
+    -webkit-border-radius: 0px 140px 116px 27px;
+    -moz-border-radius: 0px 140px 116px 27px;
+    border: 4px dotted #ff6550;
+    box-shadow: -21px 17px 0px 3px rgba(0, 0, 0, 0.8);
+}
+
+.habilidades {
+    width: 550px;
+    height: 220px;
+    background: linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -webkit-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -moz-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    text-shadow: -6px 5px 7px rgba(0, 0, 0, 0.66);
+    border-radius: 0px 200px 0px 196px;
+    -webkit-border-radius: 0px 200px 0px 196px;
+    -moz-border-radius: 0px 200px 0px 196px;
+    border: 4px dotted #ff6550;
+    box-shadow: -21px 17px 0px 3px rgba(0, 0, 0, 0.8);
+}
+
+.MiObjetivo {
+    width: 800px;
+    height: 200px;
+    background: linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -webkit-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    background: -moz-linear-gradient(155deg, #f30707 0%, #2cec44 40%, #0031ff 80%);
+    text-shadow: -6px 5px 7px rgba(0, 0, 0, 0.66);
+    border-radius: 0px 0px 200px 0px;
+    -webkit-border-radius: 0px 0px 200px 0px;
+    -moz-border-radius: 0px 0px 200px 0px;
+    border: 9px dotted #ff6550;
+    box-shadow: -21px 17px 0px 3px rgba(0, 0, 0, 0.8);
+}
